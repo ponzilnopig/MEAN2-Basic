@@ -4,7 +4,7 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 0.Basic JavaScript
 
 1.Node.js
-- ติดตั้ง https://nodejs.org/en/
+- 1.1 ติดตั้ง https://nodejs.org/en/
 
 - คำสั่ง
   node -v 
