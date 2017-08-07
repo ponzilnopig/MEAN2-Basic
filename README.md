@@ -16,10 +16,8 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 - ## npm init  (สร้างโปรเจค) 
 
 - ##Exam 1.1 (ทดลองรัน test11.js ด้วยคำสั่ง node test11.js)
-  //test11.js
-  console.log("Hello Node.js");
-
-
+- ##Exam 1.2  
+- ##Exam 1.3
 
 2.Express.js
 - การใช้งาน https://expressjs.com/
