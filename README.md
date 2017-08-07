@@ -6,6 +6,10 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 1.Node.js
 - ติดตั้ง https://nodejs.org/en/
 
+- คำสั่ง
+  node -v 
+  npm install <>
+
 2.Express.js
 - การใช้งาน https://expressjs.com/
 
