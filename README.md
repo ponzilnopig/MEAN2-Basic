@@ -15,8 +15,9 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 - ## npm install -g <package name> (ติดตั้ง package แบบ global) 
 - ## npm init  (สร้างโปรเจค) 
 
-- ตัวอย่างที่ 1 
-
+- ##Exam 1.1 (ทดลองรัน test11.js ด้วยคำสั่ง node test11.js)
+  //test11.js
+  console.log("Hello Node.js");
 
 
 
