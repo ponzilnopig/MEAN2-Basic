@@ -4,11 +4,12 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 0.Basic JavaScript
 
 1.Node.js
-- 1.1 ติดตั้ง https://nodejs.org/en/
+- ติดตั้ง https://nodejs.org/en/
+- node -v (ตรวจสอบ version ของ node.js)
+- node file.js (การโปรแกรม javascript ด้วย node.js)
 
-- คำสั่ง
-  node -v 
-  npm install <>
+- npm -v (ตรวจสอบ version ของ npm)  
+
 
 2.Express.js
 - การใช้งาน https://expressjs.com/
