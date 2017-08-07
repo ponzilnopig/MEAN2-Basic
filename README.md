@@ -16,7 +16,7 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 - # npm init  (สร้างโปรเจค) 
 
 
-
+*
 
 
 
