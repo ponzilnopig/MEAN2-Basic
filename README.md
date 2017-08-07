@@ -24,7 +24,15 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 
 3.MongoDB
 - ติดตั้ง https://www.mongodb.com/
+- ##cd C:\Program Files\MongoDB\Server\3.4\bin\ (คำสั่งต่างๆ ของ mongodb)
+- ##สร้าง Folder data ใน d:\MEAN2\data
+
+- ## "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath d:\MEAN2\data
+  
+  
+
 - https://robomongo.org/  (เครื่องมือจัดการฐานข้อมูล)
+
 - http://mongoosejs.com/  
 
 4.Angular
