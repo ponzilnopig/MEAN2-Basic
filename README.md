@@ -20,11 +20,12 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 - Exam 1.3
 
 2.Express.js
-- การใช้งาน https://expressjs.com/
+- https://expressjs.com/ 
 
 3.MongoDB
-- https://www.mongodb.com/
-- http://mongoosejs.com/
+- ติดตั้ง https://www.mongodb.com/
+- https://robomongo.org/  (เครื่องมือจัดการฐานข้อมูล)
+- http://mongoosejs.com/  
 
 4.Angular
 - https://cli.angular.io/
