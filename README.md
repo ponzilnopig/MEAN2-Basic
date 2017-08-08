@@ -46,7 +46,7 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 - ## ionic serve
 
 
-- สำหรับ myTodo
+สำหรับ myTodo
 - ## ionic start myTodo blank (สำหรับการสร้าง app blank)
 - ## cd myTodo
 - ## ionic serve
