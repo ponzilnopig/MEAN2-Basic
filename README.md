@@ -52,3 +52,10 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 - ## ionic serve
 
 
+
+- ## ionic cordova platform add ios (สำหรับ add platform ios)
+- ## ionic cordova platform add android (สำหรับ add platform android)
+
+
+- ## ionic cordova build ios  (สำหรับ build platform ios)
+- ## ionic cordova emulate ios  (สำหรับ build platform android)
