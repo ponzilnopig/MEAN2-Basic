@@ -58,4 +58,4 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 
 
 - ## ionic cordova build ios  (สำหรับ build platform ios)
-- ## ionic cordova emulate ios  (สำหรับ build platform android)
+- ## ionic cordova build android  (สำหรับ build platform android)
