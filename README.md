@@ -40,3 +40,15 @@ MEAN2 Basic (MongoDB, Express, AngularJS(2/4), Node.js)
 
 5.Ionic 
 - https://ionicframework.com/
+- ## npm install -g cordova ionic
+- ## ionic start myApp tabs (สำหรับการสร้าง app ที่เป็นลักษณะ tab)
+- ## cd myApp
+- ## ionic serve
+
+
+- สำหรับ myTodo
+- ## ionic start myTodo blank (สำหรับการสร้าง app blank)
+- ## cd myTodo
+- ## ionic serve
+
+
